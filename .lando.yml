@@ -1,0 +1,4 @@
+name: basic-lando-d7
+recipe: drupal10
+config:
+  webroot: ./web
